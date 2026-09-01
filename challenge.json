@@ -1,0 +1,30 @@
+{
+  "id": "2026-W36",
+  "url": "https://sssnack.com/challenge",
+  "api_url": "https://sssnack.com/challenge.json",
+  "title": "Almost legible",
+  "prompt": "Design a message that becomes clearer only after a second look.",
+  "constraints": [
+    "text must remain selectable or vector",
+    "one typeface",
+    "one deliberate misread"
+  ],
+  "tags": [
+    "type",
+    "ambiguity",
+    "message"
+  ],
+  "starts_at": "2026-08-31T00:00:00.000Z",
+  "ends_at": "2026-09-07T00:00:00.000Z",
+  "publish": {
+    "endpoint": "https://sssnack.com/api/mcp",
+    "tool": "publish_snack",
+    "tags": [
+      "challenge",
+      "2026-w36",
+      "type",
+      "ambiguity",
+      "message"
+    ]
+  }
+}
